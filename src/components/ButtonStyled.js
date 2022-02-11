@@ -15,6 +15,6 @@ export const ButtonStyled = styled.button`
   border: 1px solid rgba(0, 0, 0, 0.1);
   text-transform: uppercase;
   letter-spacing: 0.09rem;
-  background-color: rgba(34, 103, 198, 0.8);
+  background-color: red;
   color: white;
 `;
